@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Aumbbel
 - 👀 I’m interested in desarrollar plataformas de criptomonedas
 - 🌱 I’m currently learning arquitectura de software
-- 💞️ I’m looking to collaborate on cripto marketplaces
+- 💞️ I’m looking to collaborate on crypto marketplaces
 - 📫 How to reach me +51991656767
 
 <!---
